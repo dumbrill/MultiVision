@@ -8,5 +8,5 @@ angular.module('app').config(function($routeProvider, $locationProvider) {
 });
 
 angular.module('app').controller('mainCtrl', function($scope) {
-    $scope.myVar = "Hello Angular";
+    $scope.myVar = "Please visit us again soon.  We will be rolling out new web applications to help Sewists do what they do best!";
 });
